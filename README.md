@@ -17,4 +17,3 @@ A typical use-case scenario for adding 2 and 3 will do the following steps:
 6.Press the “C” button – clears the calculator
 
 7.Press the “Off” button – turns off the calculator.
-
