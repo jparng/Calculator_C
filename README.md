@@ -1,6 +1,6 @@
 # Simple_Calculator
 
-This WPF application is a simple calculator where the user presses the "On" button to enable the other buttons and make simple calculations. 
+This WPF application is a simple calculator. 
 
 A typical use-case scenario for adding 2 and 3 will do the following steps:
 
