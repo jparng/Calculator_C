@@ -1,4 +1,4 @@
-# Simple_Calculator
+# Calculator
 
 This WPF application is a simple calculator. 
 
